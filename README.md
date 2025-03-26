@@ -80,7 +80,7 @@ This will train the model on CIFAR-10 and save it as `cifar10_model.h5`.
 ---
 
 ## ⭐ Credits
-Built with ❤️ by [Your Name] as a beginner-friendly AI project.
+Built with ❤️ by [hujaafar] as a beginner-friendly AI project.
 
 ---
 
