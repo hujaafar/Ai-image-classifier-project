@@ -38,8 +38,8 @@ The model is trained on the **CIFAR-10** dataset and can classify images into on
 ## 💻 How to Run Locally
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/hujaafar/Ai-image-classifier-project.git
+cd Ai-image-classifier-project
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
